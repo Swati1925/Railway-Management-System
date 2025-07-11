@@ -98,8 +98,3 @@ This project, is a comprehensive Train Reservation and Management System built u
 - Data Integrity: Handle circular foreign key constraints (e.g., payment_info and pax_info) by disabling checks during deletions. Validate input data (e.g., date formats) to prevent errors.
 - Backup Strategy: Regularly export the database using mysqldump (e.g., mysqldump -u root -p train_reservation > backup.sql) to safeguard against data loss.
 
-### Team
-- Ishika Gupta(2301AI10)
-- Sakshi Saxena(2301CS45)
-- Manshi Prajapati(2302CS08)
-- Swati Yadav(2301CS85)
